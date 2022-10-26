@@ -1,0 +1,10 @@
+head{
+    font-size: medium;
+    color: black;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    border-style: dotted;
+    border-color: blueviolet;
+}
+body{
+background-color: cornflowerblue;
+}
